@@ -1,4 +1,4 @@
-<div style="background: red">
+<div>
 
 <h3>¡Bienvenido a mi repositorio!</h3>
 
