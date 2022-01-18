@@ -1,6 +1,4 @@
-<div>
-
-<h3>¡Bienvenido a mi repositorio!</h3>
+<h3>¡Bienvenid@ a mi repositorio!</h3>
 
 <p>Aquí encontrarás:</p>
 
@@ -116,4 +114,4 @@
 
 </ul>
 
-<div>
+<p>Si deseas contactar conmigo mi dirección de correo electrónico es eduardoamdev@gmail.com</p>
