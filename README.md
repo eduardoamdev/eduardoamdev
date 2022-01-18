@@ -114,4 +114,4 @@
 
 </ul>
 
-<p>Si deseas contactar conmigo mi dirección de correo electrónico es eduardoamdev@gmail.com</p>
+<p>Si deseas contactar conmigo mi dirección de correo electrónico es eduardoamdev@gmail.com.</p>
