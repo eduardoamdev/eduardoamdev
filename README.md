@@ -1,6 +1,4 @@
-<h3>Mi nombre es Eduardo Álvarez.</h3>
-
-<h4>Bienvenid@ a mi repositorio.</h4>
+<h3>Bienvenid@ a mi repositorio.</h3>
 
 <p>Aquí encontrarás:</p>
 
