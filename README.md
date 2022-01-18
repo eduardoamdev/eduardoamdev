@@ -78,6 +78,42 @@
 </ul>
 </li>
 
+<li>
+<span>Web Sockets</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/sockets-chat">Sockets Chat: Aplicación de chat con una única sala.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>VueJS</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/cryptos">Cryptos: Aplicación de listado de criptomonedas.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>Desarrollo de videojuegos para navegador</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/plants-and-fire">Plants and Fire: Pequeño mini-juego de tipo arcade.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>Scripts para Bash</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/bash_scripting_collection">Bash Scripting Collection: Collección de scrips creados para la Bash Shell.</a>
+</li>
+</ul>
+</li>
+
 </ul>
 
 <div>
