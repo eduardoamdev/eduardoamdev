@@ -17,7 +17,7 @@
 
 </ul>
 
-<p>Repositorios recomendados por temas:</p>
+<p>Repositorios ordenados por temas:</p>
 
 <ul>
 
@@ -25,7 +25,34 @@
 <span>Desarrollo de Solidity con React</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/benefit">Benefit</a>
+<a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>Desarrollo de front-end con React</span>
+<ul>
+<li style="color: red">
+<a href="https://github.com/eduardoamdev/notes">Notes: Block de notas con sesión personal para cada usuario.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/recipes-network">Recipes Network: Red social orientada a las recetas de cocina.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/personal-blog">Blog: Mi blog personal.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>API REST con NodeJS, Express y MongoDB</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/notes-api">Notes API: Back-end de la aplicación Notes.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/recipes-network-api">Recipes Network API: Back-end de la aplicación Notes.</a>
 </li>
 </ul>
 </li>
