@@ -17,4 +17,22 @@
 
 </ul>
 
+<p>Repositorios recomendados por temas:</p>
+
+<ul>
+
+<li>
+<p>Desarrollo con Solidity y React</p>
+<a href="https://github.com/eduardoamdev/benefit">Benefit</a>
+</li>
+<li>Un broker construído con React y Solidity para la blockchain de Ethereum</li>
+<li>Desarrollo de un juego de navegador en Javascript mediante el empleo del canvas de HTML.</li>
+<li>Ejemplos de utilización del motor de renderizado de plantillas Handlebars.</li>
+<li>Tests unitarios de back-end con Mocha y Chai</li>
+<li>Utilización de web sockets</li>
+<li>Un mini-proyecto desarrollado con VueJS</li>
+<li>Y mucho más...</li>
+
+</ul>
+
 <div>
