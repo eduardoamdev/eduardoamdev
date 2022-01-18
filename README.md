@@ -73,7 +73,7 @@
 <a href="https://github.com/eduardoamdev/workshop-management-1">Workshop Management 1: Primera aplicación realizada para la gestión de las órdenes de trabajo de un taller.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/workshop-management-1">Workshop Management 2: Se incluyen ciertas mejoras con respecto a Workshop Management 1.</a>
+<a href="https://github.com/eduardoamdev/workshop-management-2">Workshop Management 2: Se incluyen ciertas mejoras con respecto a Workshop Management 1.</a>
 </li>
 </ul>
 </li>
