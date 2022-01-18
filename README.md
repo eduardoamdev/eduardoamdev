@@ -40,7 +40,7 @@
 <a href="https://github.com/eduardoamdev/recipes-network">Recipes Network: Red social orientada a las recetas de cocina.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/personal-blog">Blog: Mi blog personal.</a>
+<a href="https://github.com/eduardoamdev/personal-blog">Personal Blog: Mi blog personal.</a>
 </li>
 </ul>
 </li>
@@ -52,7 +52,28 @@
 <a href="https://github.com/eduardoamdev/notes-api">Notes API: Back-end de la aplicación Notes.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/recipes-network-api">Recipes Network API: Back-end de la aplicación Notes.</a>
+<a href="https://github.com/eduardoamdev/recipes-network-api">Recipes Network API: Back-end de la aplicación Recipes Network.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>API REST con interfaz gráfica para el administrador</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/blog-management">Blog Management: Suministra información a Personal Blog y proporciona una interfaz gráfica al administrador con inicio de sesión.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>Aplicación completa con Handlebars, Express, NodeJS y MongoDB</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/workshop-management-1">Workshop Management 1: Primera aplicación realizada para la gestión de las órdenes de trabajo de un taller.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/workshop-management-1">Workshop Management 2: Se incluyen ciertas mejoras con respecto a Workshop Management 1.</a>
 </li>
 </ul>
 </li>
