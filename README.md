@@ -25,6 +25,9 @@
 <li>
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
 </li>
+<li>
+<a href="https://github.com/eduardoamdev/hardhat-begining">Hardhat-begining: Código básico con contrato inteligente y tests con Hardhat.</a>
+</li>
 </ul>
 </li>
 
