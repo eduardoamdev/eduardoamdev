@@ -20,7 +20,7 @@
 <ul>
 
 <li>
-<span>Desarrollo de Solidity con React</span>
+<span>Desarrollo de dapps con Solidity</span>
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
