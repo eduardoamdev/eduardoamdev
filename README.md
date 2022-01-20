@@ -110,7 +110,7 @@
 <span>Scripts para Bash</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/bash_scripting_collection">Bash Scripting Collection: Collección de scrips creados para la Bash Shell.</a>
+<a href="https://github.com/eduardoamdev/bash_scripting_collection">Bash Scripting Collection: Collección de scrips creados para la shell de Bash.</a>
 </li>
 </ul>
 </li>
