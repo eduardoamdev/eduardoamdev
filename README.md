@@ -35,28 +35,13 @@
 </li>
 
 <li>
-<span>Desarrollo de front-end con React</span>
-<ul>
-<li style="color: red">
-<a href="https://github.com/eduardoamdev/notes">Notes: Block de notas con sesión personal para cada usuario.</a>
-</li>
-<li>
-<a href="https://github.com/eduardoamdev/recipes-network">Recipes Network: Red social orientada a las recetas de cocina.</a>
-</li>
-<li>
-<a href="https://github.com/eduardoamdev/personal-blog">Personal Blog: Mi blog personal.</a>
-</li>
-</ul>
-</li>
-
-<li>
-<span>API REST con NodeJS, Express y MongoDB</span>
+<span>Aplicaciones desarrolladas co el stack MERN</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/notes-api">Notes API: Back-end de la aplicación Notes.</a>
+<a href="https://github.com/eduardoamdev/notes">Notes API: Back-end de la aplicación Notes.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/recipes-network-api">Recipes Network API: Back-end de la aplicación Recipes Network.</a>
+<a href="https://github.com/eduardoamdev/recipes">Recipes Network API: Back-end de la aplicación Recipes Network.</a>
 </li>
 </ul>
 </li>
