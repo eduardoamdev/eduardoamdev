@@ -38,19 +38,10 @@
 <span>Aplicaciones desarrolladas co el stack MERN</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/notes">Notes API: Back-end de la aplicación Notes.</a>
+<a href="https://github.com/eduardoamdev/notes">Notes: Aplicación de blog de notas con sesión personal.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/recipes">Recipes Network API: Back-end de la aplicación Recipes Network.</a>
-</li>
-</ul>
-</li>
-
-<li>
-<span>API REST con interfaz gráfica para el administrador</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/blog-management">Blog Management: Suministra información a Personal Blog y proporciona una interfaz gráfica al administrador con inicio de sesión.</a>
+<a href="https://github.com/eduardoamdev/recipes">Recipes: Red social orientada a compartir recetas de cocina.</a>
 </li>
 </ul>
 </li>
@@ -63,6 +54,9 @@
 </li>
 <li>
 <a href="https://github.com/eduardoamdev/workshop-management-2">Workshop Management 2: Se incluyen ciertas mejoras con respecto a Workshop Management 1.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/blog-management">Blog Management: Suministra información a Personal Blog y proporciona una interfaz gráfica al administrador con inicio de sesión.</a>
 </li>
 </ul>
 </li>
