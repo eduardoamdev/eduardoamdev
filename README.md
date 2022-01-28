@@ -96,6 +96,15 @@
 </li>
 </ul>
 </li>
+  
+<li>
+<span>Scripts para Bash</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/personal-blog">Eblog: Blog con información personal, artículos y contenido multimedia.</a>
+</li>
+</ul>
+</li>
 
 </ul>
 
