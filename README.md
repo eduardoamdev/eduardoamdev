@@ -35,7 +35,7 @@
 </li>
 
 <li>
-<span>Aplicaciones desarrolladas co el stack MERN</span>
+<span>Aplicaciones desarrolladas con el stack MERN</span>
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/notes">Notes: Aplicación de blog de notas con sesión personal.</a>
