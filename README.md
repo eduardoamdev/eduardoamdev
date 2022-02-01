@@ -44,7 +44,7 @@
 <a href="https://github.com/eduardoamdev/recipes">Recipes: Red social orientada a compartir recetas de cocina.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/blog-management">Blog personal: Blog desarrollado mediante el uso des stack MERN y Handlebars para crear una interfaz gráfica del lado del servidor.</a>
+<a href="https://github.com/eduardoamdev/personal-blog">Blog personal: Blog desarrollado mediante el uso des stack MERN y Handlebars para crear una interfaz gráfica del lado del servidor.</a>
 </li>
 </ul>
 </li>
