@@ -43,6 +43,9 @@
 <li>
 <a href="https://github.com/eduardoamdev/recipes">Recipes: Red social orientada a compartir recetas de cocina.</a>
 </li>
+<li>
+<a href="https://github.com/eduardoamdev/blog-management">Blog personal: Blog desarrollado mediante el uso des stack MERN y Handlebars para crear una interfaz gráfica del lado del servidor.</a>
+</li>
 </ul>
 </li>
 
@@ -54,9 +57,6 @@
 </li>
 <li>
 <a href="https://github.com/eduardoamdev/workshop-management-2">Workshop Management 2: Se incluyen ciertas mejoras con respecto a Workshop Management 1.</a>
-</li>
-<li>
-<a href="https://github.com/eduardoamdev/blog-management">Blog Management: Suministra información a Personal Blog y proporciona una interfaz gráfica al administrador con inicio de sesión.</a>
 </li>
 </ul>
 </li>
@@ -93,15 +93,6 @@
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/bash_scripting_collection">Bash Scripting Collection: Collección de scrips creados para la shell de Bash.</a>
-</li>
-</ul>
-</li>
-  
-<li>
-<span>Scripts para Bash</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/personal-blog">Eblog: Blog con información personal, artículos y contenido multimedia.</a>
 </li>
 </ul>
 </li>
