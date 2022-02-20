@@ -62,7 +62,7 @@
 </li>
   
 <li>
-<span>Scripts para Bash</span>
+<span>Cats CRUD</span>
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/cats_crud">Cats crud: API REST desarrollada con NestJS, MongoDB y Elastic Search.</a>
