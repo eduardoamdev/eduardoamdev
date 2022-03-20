@@ -25,12 +25,6 @@
 <li>
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
 </li>
-<li>
-<a href="https://github.com/eduardoamdev/hardhat-begining">Hardhat-begining: Código básico con contrato inteligente y entorno de desarrollo Hardhat.</a>
-</li>
-<li>
-<a href="https://github.com/eduardoamdev/trying-zeppelin-with-hardhat">Trying OpenZeppelin with Hardhat: Contrato inteligente importado con Open Zeppelin y entorno de desarrollo Hardhat.</a>
-</li>
 </ul>
 </li>
 
