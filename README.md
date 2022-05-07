@@ -9,8 +9,6 @@
 <li>Desarrollo de un juego de navegador en Javascript mediante el empleo del canvas de HTML.</li>
 <li>Ejemplos de utilización del motor de renderizado de plantillas Handlebars.</li>
 <li>Tests unitarios de back-end con Mocha y Chai</li>
-<li>Utilización de web sockets</li>
-<li>Un mini-proyecto desarrollado con VueJS</li>
 <li>Y mucho más...</li>
 
 </ul>
@@ -51,24 +49,6 @@
 </li>
 <li>
 <a href="https://github.com/eduardoamdev/workshop-management-2">Workshop Management 2: Se incluyen ciertas mejoras con respecto a Workshop Management 1.</a>
-</li>
-</ul>
-</li>
-
-<li>
-<span>Web Sockets</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/sockets-chat">Sockets Chat: Aplicación de chat con una única sala.</a>
-</li>
-</ul>
-</li>
-
-<li>
-<span>VueJS</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/cryptos">Cryptos: Aplicación de listado de criptomonedas.</a>
 </li>
 </ul>
 </li>
