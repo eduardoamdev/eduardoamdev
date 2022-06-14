@@ -16,6 +16,15 @@
 <p>Repositorios ordenados por temas:</p>
 
 <ul>
+  
+<li>
+<span>Aplicaciones desarrolladas con Angular y NestJS</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/personal-blog-2">Blog personal 2: Blog creado con Angular y NestJS (en desarrollo).</a>
+</li>
+</ul>
+</li>
 
 <li>
 <span>Desarrollo de dapps con Solidity</span>
