@@ -29,8 +29,8 @@
 <li>
 <span>Desarrollo de dapps con Solidity</span>
 <ul>
+<li><a href="https://github.com/eduardoamdev/nft-sessions">Nft Sessions: Aplicación de gestión de nft que incluye contratos de Open Zeppelin (en desarrollo).</a></li>
 <li>
-<a href="https://github.com/eduardoamdev/nft-sessions">Nft Sessions: Aplicación de gestión de nft que incluye contratos de Open Zeppelin (en desarrollo).</a>
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
 </li>
 </ul>
