@@ -21,7 +21,7 @@
 <span>Aplicaciones desarrolladas con Angular y NestJS</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/personal-blog-2">Personal Notebook: Cuaderno de notas personal Angular y NestJS.</a>
+<a href="https://github.com/eduardoamdev/personal-notebook">Personal Notebook: Cuaderno de notas personal Angular y NestJS.</a>
 </li>
 </ul>
 </li>
@@ -29,7 +29,7 @@
 <li>
 <span>Desarrollo de dapps con Solidity</span>
 <ul>
-<li><a href="https://github.com/eduardoamdev/benefit-2">Benefit2: Mejora del proyecto Benefit que incluye contratos de Open Zeppelin.</a></li>
+<li><a href="https://github.com/eduardoamdev/benefit2">Benefit2: Mejora del proyecto Benefit que incluye contratos de Open Zeppelin.</a></li>
 <li>
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
 </li>
