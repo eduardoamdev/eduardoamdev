@@ -33,7 +33,7 @@
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/benefit-2">Benefit 2: Versión mejorada de la anterior que incluye Hardhat y Open Zeppelin.</a>
+<a href="https://github.com/eduardoamdev/Benefit2">Benefit 2: Versión mejorada de la anterior que incluye Hardhat y Open Zeppelin.</a>
 </li>
 <li>
 <a href="https://github.com/eduardoamdev/upgraded-box">Upgraded box: Pequeña aplicación creada para ilustrar cómo se crean contratos actualizables en Solidity.</a>
