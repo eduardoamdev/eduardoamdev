@@ -29,7 +29,6 @@
 <li>
 <span>Desarrollo de dapps con Solidity</span>
 <ul>
-<li><a href="https://github.com/eduardoamdev/benefit2">Benefit2: Mejora del proyecto Benefit que incluye contratos de Open Zeppelin.</a></li>
 <li>
 <a href="https://github.com/eduardoamdev/benefit">Benefit: Aplicación defi para la red de Ethereum.</a>
 </li>
