@@ -39,7 +39,16 @@
 <a href="https://github.com/eduardoamdev/Benefit2">Benefit 2: Versión mejorada de la anterior que incluye Hardhat y Open Zeppelin.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/upgraded-box">Upgraded box: Pequeña aplicación creada para ilustrar cómo se crean contratos actualizables en Solidity.</a>
+<a href="https://github.com/eduardoamdev/upgraded-box">Upgraded Box: Pequeña aplicación creada para ilustrar cómo se crean contratos actualizables en Solidity.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>Utilización de Redis</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/redis-retryx">Redis Retry: Práctica de utilización de Redis con reintentos.</a>
 </li>
 </ul>
 </li>
