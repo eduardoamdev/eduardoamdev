@@ -18,7 +18,7 @@
 <ul>
   
 <li>
-<span>Aplicaciones desarrolladas con Angular y NestJS</span>
+<span>Aplicaciones desarrolladas con NestJS</span>
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/personal-notebook">Personal Notebook: Cuaderno de notas personal Angular y NestJS.</a>
