@@ -23,6 +23,9 @@
 <li>
 <a href="https://github.com/eduardoamdev/personal-notebook">Personal Notebook: Cuaderno de notas personal Angular y NestJS.</a>
 </li>
+<li>
+<a href="https://github.com/eduardoamdev/chat">Chat: Desarrollado con NestJS, Socket.io y React con Typescript</a>
+</li>
 </ul>
 </li>
 
