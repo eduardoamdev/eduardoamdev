@@ -93,7 +93,7 @@
 <span>Scripts para Bash</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/bash-work-automation">Bash Work Automation: Colección de scrips creados para la shell con el objetivo de automatizar tareas.</a>
+<a href="https://github.com/eduardoamdev/bash-work-automation">Bash Work Automation: Colección de scripts creados para la shell con el objetivo de automatizar tareas.</a>
 </li>
 </ul>
 </li>
