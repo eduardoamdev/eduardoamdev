@@ -69,7 +69,7 @@
 </li>
 
 <li>
-<span>Aplicación completa con Handlebars, Express, NodeJS y MongoDB</span>
+<span>Aplicaciónes creadas con Handlebars, Express, NodeJS y MongoDB</span>
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/workshop-management-1">Workshop Management 1: Primera aplicación realizada para la gestión de las órdenes de trabajo de un taller.</a>
