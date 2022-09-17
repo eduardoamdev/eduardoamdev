@@ -48,7 +48,7 @@
 <span>Utilización de Redis</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/redis-retryx">Redis Retry: Práctica de utilización de Redis con reintentos.</a>
+<a href="https://github.com/eduardoamdev/redis-retry">Redis Retry: Práctica de utilización de Redis con reintentos.</a>
 </li>
 </ul>
 </li>
