@@ -54,6 +54,15 @@
 </li>
 
 <li>
+<span>Elaboración de un backend con NodeJS y PostgreSQL</span>
+<ul>
+<li>
+<a href="">Pending Tasks: CRUD de tareas realizado con NodeJS, Knex, y PostgreSQL.</a>
+</li>
+</ul>
+</li>
+
+<li>
 <span>Aplicaciones desarrolladas con el stack MERN</span>
 <ul>
 <li>
