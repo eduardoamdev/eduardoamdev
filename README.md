@@ -57,7 +57,7 @@
 <span>Elaboración de un backend con NodeJS y PostgreSQL</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/pending-tasks">Pending Tasks: CRUD de tareas realizado con NodeJS, Knex, y PostgreSQL.</a>
+<a href="https://github.com/eduardoamdev/pending-tasks">Pending Tasks: CRUD de tareas realizado con NodeJS, Express, Knex, EJS y PostgreSQL.</a>
 </li>
 </ul>
 </li>
