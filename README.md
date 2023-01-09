@@ -97,6 +97,15 @@
 </li>
 </ul>
 </li>
+  
+<li>
+<span>Testing en Javascript</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/customers-api-testing">Customers api testing: CRUD de NodeJS testeado con Jest.</a>
+</li>
+</ul>
+</li>
 
 </ul>
 
