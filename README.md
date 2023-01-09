@@ -41,6 +41,9 @@
 <li>
 <a href="https://github.com/eduardoamdev/upgraded-box">Upgraded Box: Pequeña aplicación creada para ilustrar cómo se crean contratos actualizables en Solidity.</a>
 </li>
+<li>
+<a href="https://github.com/eduardoamdev/solidity-functions">Solidity Functions: Contiene funciones que pueden resultar útiles a la hora de trabajar con Solidity.</a>
+</li>
 </ul>
 </li>
 
