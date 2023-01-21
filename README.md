@@ -8,7 +8,7 @@
 <li>Un broker construído con React y Solidity para la blockchain de Ethereum.</li>
 <li>Desarrollo de un juego de navegador en Javascript mediante el empleo del canvas de HTML.</li>
 <li>Ejemplos de utilización del motor de renderizado de plantillas Handlebars.</li>
-<li>Tests unitarios de back-end con Jest</li>
+<li>Tests unitarios de back-end con Mocha y Chai</li>
 <li>Y mucho más...</li>
 
 </ul>
@@ -97,15 +97,6 @@
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/plants-and-fire">Plants and Fire: Pequeño mini-juego de tipo arcade.</a>
-</li>
-</ul>
-</li>
-  
-<li>
-<span>Testing en Javascript</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/customers-api-testing">Customers api testing: CRUD de NodeJS testeado con Jest.</a>
 </li>
 </ul>
 </li>
