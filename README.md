@@ -105,7 +105,16 @@
 <span>Formación sobre Docker</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/docker-basics">Docker basics: Este repo contiene información básica acerca de Docker.</a>
+<a href="https://github.com/eduardoamdev/docker-basics">Docker Basics: Este repo contiene información básica acerca de Docker.</a>
+</li>
+</ul>
+</li>
+  
+<li>
+<span>Desarrollo con Java</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/tres-en-raya">Tres en Raya: Sencillo juego de tres en raya desarrollado con Java.</a>
 </li>
 </ul>
 </li>
