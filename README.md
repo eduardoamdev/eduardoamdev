@@ -91,6 +91,15 @@
 </li>
 </ul>
 </li>
+  
+<li>
+<span>Testing con Jest</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/customers-api-testing">Customers api testing: Testeo de una api REST desarrollada con NodeJS y Express.</a>
+</li>
+</ul>
+</li>
 
 <li>
 <span>Desarrollo de videojuegos para navegador</span>
@@ -115,15 +124,6 @@
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/tres-en-raya">Tres en Raya: Sencillo juego de tres en raya desarrollado con Java.</a>
-</li>
-</ul>
-</li>
-  
-<li>
-<span>Testing con Jest</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/customers-api-testing">Customers api testing: Testeo de una api REST desarrollada con NodeJS y Express.</a>
 </li>
 </ul>
 </li>
