@@ -118,6 +118,15 @@
 </li>
 </ul>
 </li>
+  
+<li>
+<span>Testing con Jest</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/customers-api-testing">Customers api testing: Testeo de una api REST desarrollada con NodeJS y Express.</a>
+</li>
+</ul>
+</li>
 
 </ul>
 
