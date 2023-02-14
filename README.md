@@ -111,10 +111,19 @@
 </li>
   
 <li>
-<span>Formación sobre Docker</span>
+<span>Información sobre Docker</span>
 <ul>
 <li>
 <a href="https://github.com/eduardoamdev/docker-basics">Docker Basics: Este repo contiene información básica acerca de Docker.</a>
+</li>
+</ul>
+</li>
+
+<li>
+<span>Información básica acerca de Typescript</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/basic-typescript-api">Basic Typescript API: Este repo contiene información acerca de como levantar un proyecto básico de backend con Typescript.</a>
 </li>
 </ul>
 </li>
