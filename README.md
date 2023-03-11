@@ -48,10 +48,16 @@
 </li>
 
 <li>
-<span>Utilización de Redis</span>
+<span>Prácticas de interacción con diferentes bases de datos</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/redis-retry">Redis Retry: Práctica de utilización de Redis con reintentos.</a>
+<a href="https://github.com/eduardoamdev/redis-retry">Redis Retry: Utilización de Redis con reintentos.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/mongodb-aggregate">Mongo aggregate: Uso de las agragaciones de MongoDB.</a>
+</li>
+<li>
+<a href="https://github.com/eduardoamdev/join-with-knex">Mongo aggregate: Empleo del join mediante el uso de la labrería KnexJS.</a>
 </li>
 </ul>
 </li>
