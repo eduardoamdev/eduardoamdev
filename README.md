@@ -57,7 +57,7 @@
 <a href="https://github.com/eduardoamdev/mongodb-aggregate">Mongo aggregate: Uso de las agragaciones de MongoDB.</a>
 </li>
 <li>
-<a href="https://github.com/eduardoamdev/join-with-knex">Mongo aggregate: Empleo del join mediante el uso de la labrería KnexJS.</a>
+<a href="https://github.com/eduardoamdev/join-with-knex">Join with Knex: Empleo del join mediante el uso de la labrería KnexJS.</a>
 </li>
 </ul>
 </li>
