@@ -143,6 +143,9 @@
 <li>
 <a href="https://github.com/eduardoamdev/tres-en-raya">Tres en Raya: Sencillo juego de tres en raya desarrollado con Java.</a>
 </li>
+<li>
+<a href="https://github.com/eduardoamdev/sentences">Sentences: Backend de Java conectado a una base de datos PostgreSQL.</a>
+</li>
 </ul>
 </li>
 
