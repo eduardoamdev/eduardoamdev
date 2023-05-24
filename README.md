@@ -148,6 +148,15 @@
 </li>
 </ul>
 </li>
+  
+<li>
+<span>Desarrollo con Java</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/prometheus">Prometheus: Implementación de métricas en una api de NodeJS por medio de Prometheus.</a>
+</li>
+</ul>
+</li>
 
 </ul>
 
