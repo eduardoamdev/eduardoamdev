@@ -148,6 +148,15 @@
 </li>
 </ul>
 </li>
+
+<li>
+<span>Desarrollo con C++</span>
+<ul>
+<li>
+<a href="https://github.com/eduardoamdev/three-in-a-row-cpp">Three in a row CPP: Juego de tres en raya desarrollado con C++.</a>
+</li>
+</ul>
+</li>
   
 <li>
 <span>Implementación de métricas</span>
