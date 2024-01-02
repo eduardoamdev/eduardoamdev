@@ -167,15 +167,6 @@
 </ul>
 </li>
 
-<li>
-<span>Enrutamiento de una aplicación de sockets con NGINX</span>
-<ul>
-<li>
-<a href="https://github.com/eduardoamdev/nginx-socket-connection">nginx-socket-connection: Frontend de React y backend con NodeJS y Socket.io enrutados con NGINX.</a>
-</li>
-</ul>
-</li>
-
 </ul>
 
 <p>Si deseas contactar conmigo mi dirección de correo electrónico es eduardoamdev@gmail.com.</p>
