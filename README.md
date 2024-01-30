@@ -141,7 +141,7 @@
 <span>Desarrollo con Java</span>
 <ul>
 <li>
-<a href="https://github.com/eduardoamdev/three-in-a-row-java">Three in a row java: Sencillo juego de tres en raya desarrollado con Java.</a>
+<a href="https://github.com/eduardoamdev/three-in-a-row-java">Three in a row Java: Sencillo juego de tres en raya desarrollado con Java.</a>
 </li>
 <li>
 <a href="https://github.com/eduardoamdev/sentences">Sentences: Backend de Java conectado a una base de datos PostgreSQL.</a>
